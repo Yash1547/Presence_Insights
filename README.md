@@ -50,13 +50,13 @@ The Power BI dashboard provides detailed insights into employee presence, includ
 Below are some screenshots of the Power BI dashboard created during this project:
 
 1. **Dashboard Overview**
-    ![Dashboard Overview](images/dashboard_overview.png)
+    ![Dashboard Overview]([images/dashboard_overview.png](https://github.com/Yash1547/Presence_Insights/blob/main/image/img1.png))
 
-2. **Attendance Analysis**
-    ![Attendance Analysis](images/attendance_analysis.png)
+2. **Date Picker**
+    ![Date Picker]([images/attendance_analysis.png](https://github.com/Yash1547/Presence_Insights/blob/main/image/img2.png))
 
-3. **Department-Wise Analysis**
-    ![Department-Wise Analysis](images/department_wise_analysis.png)
+3. **Month-Wise Analysis**
+    ![Month-Wise Analysis]([images/department_wise_analysis.png](https://github.com/Yash1547/Presence_Insights/blob/main/image/img3.png))
 
 ## Contributing
 
