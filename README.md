@@ -53,7 +53,7 @@ Below are some screenshots of the Power BI dashboard created during this project
     ![Dashboard Overview]([images/img1.jpg]([https://github.com/Yash1547/Presence_Insights/blob/main/image/img1.png](https://github.com/Yash1547/Presence_Insights/blob/main/image/img1.png)))
 
 2. **Date Picker**
-    ![Date Picker]([images/img2.jpg](https://github.com/Yash1547/Presence_Insights/blob/main/image/img2.jpg))
+    ![Date Picker](https://github.com/Yash1547/Presence_Insights/blob/main/image/img2.jpg)
 
 3. **Month-Wise Analysis**
     ![Month-Wise Analysis]([images/img3.jpg](https://github.com/Yash1547/Presence_Insights/blob/main/image/img3.jpg))
